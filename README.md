@@ -33,7 +33,7 @@ Miscellaneous Swift notes — mostly iOS/macOS development concepts, patterns, a
 | Systems | Rust |
 | Tooling | Neovim · Cargo |
 | Platform | Linux |
-| Other | Swift · Shell · |
+| Other | Swift · Shell |
 
 ---
 
