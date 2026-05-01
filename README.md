@@ -11,7 +11,7 @@ This repo is a running record of things I've learned, built, or broken. It's spl
 ```
 x-log/
 ├── Hack-log/     # WiFi security, CTF notes, pentesting experiments
-├── Rust-log/     # RegulR rustacean activities
+├── Rust-log/     # Regular rustacean activities
 └── Swift-log/    # iOS/macOS development notes and experiments (for the future)
 ```
 
